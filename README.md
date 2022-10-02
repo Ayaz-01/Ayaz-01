@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ayaz-01
-- 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning full stack web developement
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Ayaz Khan.
+- 👀 I’m interested in learning new languages.
+- 🌱 I’m currently learning full stack web developement(MERN).
 - 📫 How to reach me ayazkhanm3496@gmail.com
 
 <!---
