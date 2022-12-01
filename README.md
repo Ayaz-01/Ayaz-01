@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayaz Khan.
-- 👀 I’m interested in learning new languages.
-- 🌱 I’m currently learning full stack web developement(MERN).
+- 👀 I’m interested in learning new tech.
+- 🌱 I’m currently learning Java backend.
 - 📫 How to reach me ayazkhanm3496@gmail.com
 
 <!---
