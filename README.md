@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ayaz Khan.
 - 👀 I’m interested in learning new tech.
-- 🌱 I’m currently learning Java backend.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me ayazkhanm3496@gmail.com
+
 
 <!---
 Ayaz-01/Ayaz-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
