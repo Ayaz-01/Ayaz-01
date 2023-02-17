@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 👨‍💻 All of my projects are available at [https://ayaz-portfolio-rho.vercel.app/](https://ayaz-portfolio-rho.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ayaz-01.github.io/](https://ayaz-01.github.io/)
 
 - 💬 Ask me about **java,javascript.**
 
 - 📫 How to reach me **ayazkhanm3496@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16zYsDeBW1K5cUiXPQ3YenGpamno41WTe/view?usp=share_link](https://drive.google.com/file/d/16zYsDeBW1K5cUiXPQ3YenGpamno41WTe/view?usp=share_link)
+- 📄 Know about my experiences [https://1drv.ms/b/s!AjBmCTc8FZsYi85e23ZHFIm-V2Et1w?e=USW7aE](https://1drv.ms/b/s!AjBmCTc8FZsYi85e23ZHFIm-V2Et1w?e=USW7aE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
