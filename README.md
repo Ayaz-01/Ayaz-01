@@ -25,7 +25,7 @@ When I am not coding, you'll find me at my desk sketching stuff. Find out more a
 
 # ⚡ Tech Stack
 
-- 🌱 I’m currently learning **Java Backend**
+- 🌱 I’m currently working with **AadhaarDataVault** Team **C-Edge Technologies**
 
 - 👨‍💻 All of my projects are available at [https://ayaz-01.github.io/](https://ayaz-01.github.io/)
 
